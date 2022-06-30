@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>8e7573036f9b69954b73a1c97c29299427602c45</guid>
+	<type>property</type>
+	<hash>be262ba7</hash>
+	<runtimes>
+		<runtime id="8e7573036f9b69954b73a1c97c29299427602c45" name="MusicPlayer" link="0" type="4"/>
+	</runtimes>
+</asset>

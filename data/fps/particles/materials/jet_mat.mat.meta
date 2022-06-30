@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>189bd33d3377fb78367088772a244b6a33ad03c1</guid>
+	<type>material</type>
+	<hash>5c178e3</hash>
+	<runtimes>
+		<runtime id="189bd33d3377fb78367088772a244b6a33ad03c1" name="jet_mat" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

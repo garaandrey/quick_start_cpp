@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.15.1.0">
+	<node type="ObjectMeshStatic" id="2139763629" name="floor">
+		<mesh_name>guid://88c672af6ab1177c29a264c6cec93ce326e9e612</mesh_name>
+		<surface name="plane" collision="1" physics_friction="1" physics_restitution="1" material="4cf8bd27b93d185a5d070bf1ef15949c7cf9a74b"/>
+		<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+	</node>
+</nodes>

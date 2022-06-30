@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.15.1.0" name="PlayerController" manual="1" parent_name="node_base">
+	<parameter name="bullet_path" type="file"/>
+	<parameter name="leftSpawn" type="node">0</parameter>
+	<parameter name="rightSpawn" type="node">0</parameter>
+</property>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>577ef7dc1516f4b3c43ddbe63327a8a039a0edec</guid>
+	<type>property</type>
+	<hash>8820952b</hash>
+	<runtimes>
+		<runtime id="577ef7dc1516f4b3c43ddbe63327a8a039a0edec" name="Destroy" link="0" type="4"/>
+	</runtimes>
+</asset>

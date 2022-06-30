@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.15.1.0" guid="0c661744d08739d359f1f5162485297d32eedcb8" parent="603e26139a9d74562f2e1fbd1be0ddf8ec8308f7" base_material="4dfec30f491f753f6e89094db6d3d695e89f9d6f">
+	<blend src="src_alpha" dest="one_minus_src_alpha"/>
+	<options transparent="2" depth_mask="1" overlap="1"/>
+	<state name="emission">1</state>
+	<state name="emission_bake_gi">0</state>
+	<state name="material_dof">0</state>
+	<state name="material_motion_blur">0</state>
+	<state name="ambient">0</state>
+	<state name="environment_probe">0</state>
+	<state name="voxel_probe">0</state>
+	<state name="light_omni">0</state>
+	<state name="light_proj">0</state>
+	<state name="light_world">0</state>
+	<parameter name="emission_color" expression="0">0.627451003 0.741176486 0.490196079 1</parameter>
+</material>

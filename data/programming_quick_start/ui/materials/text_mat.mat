@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.15.1.0" guid="ee7dd8b4a6beac8385a4e80662d71fad0fdf7d28" base_material="196c349704185e581025cee22b1fe0d75cb85e73">
+	<options order="1" depth_mask="0" depth_test="1" two_sided="1" cast_shadow="0" cast_world_shadow="0" overlap="1"/>
+</material>

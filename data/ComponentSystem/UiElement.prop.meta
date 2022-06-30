@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>9b6e7efb3761fd6ec3de74fe10564c1582f1274f</guid>
+	<type>property</type>
+	<hash>38950a93</hash>
+	<runtimes>
+		<runtime id="9b6e7efb3761fd6ec3de74fe10564c1582f1274f" name="UiElement" link="0" type="4"/>
+	</runtimes>
+</asset>

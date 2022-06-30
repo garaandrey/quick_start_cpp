@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>6fa00f61f480af65caaeab327fa25d36647dd285</guid>
+	<type>property</type>
+	<hash>a70ad906</hash>
+	<runtimes>
+		<runtime id="6fa00f61f480af65caaeab327fa25d36647dd285" name="KillZone" link="0" type="4"/>
+	</runtimes>
+</asset>

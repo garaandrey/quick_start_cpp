@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>cb8fe835966fdc10ef5b802f5dbe2fc27010ac39</guid>
+	<type>node</type>
+	<hash>07f3ed85</hash>
+	<runtimes>
+		<runtime id="cb8fe835966fdc10ef5b802f5dbe2fc27010ac39" name="floor.node" link="0" type="3"/>
+	</runtimes>
+</asset>

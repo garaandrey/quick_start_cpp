@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>fa2b574024f045b652071b057ba693b1d5beb92c</guid>
+	<type>property</type>
+	<hash>16716491</hash>
+	<runtimes>
+		<runtime id="fa2b574024f045b652071b057ba693b1d5beb92c" name="ColorChanger" link="0" type="4"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>6fbaf9250d79793e257226fcbca7afaeb81f7c26</guid>
+	<type>texture</type>
+	<hash>889e15f9</hash>
+	<runtimes>
+		<runtime id="6fbaf9250d79793e257226fcbca7afaeb81f7c26" name="normal.dds" link="0" type="6"/>
+		<runtime id="082045fa7881aeb1f8b8c590683c24fc96ff90fa" name="normal.dds" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="image_format">RGBA8</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="string" name="width">Original</parameter>
+		<parameter type="string" name="height">Original</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+	</parameters>
+</asset>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>6620070fdf56492219463619c6fea8a44692dbb3</guid>
+	<type>material</type>
+	<hash>cce1e1d9</hash>
+	<runtimes>
+		<runtime id="6620070fdf56492219463619c6fea8a44692dbb3" name="ui_black_mat" link="0" type="5"/>
+	</runtimes>
+</asset>

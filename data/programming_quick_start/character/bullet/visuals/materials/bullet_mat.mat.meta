@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>a7721f7548302a50398cf96fafd0d802784cb779</guid>
+	<type>material</type>
+	<hash>cff44d23</hash>
+	<runtimes>
+		<runtime id="a7721f7548302a50398cf96fafd0d802784cb779" name="bullet_mat" link="0" type="5"/>
+	</runtimes>
+</asset>

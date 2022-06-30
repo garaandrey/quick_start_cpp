@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>1ee39dfdeca5c738c2b26137b098cd2a1f0a1a81</guid>
+	<type>material</type>
+	<hash>611ad529</hash>
+	<runtimes>
+		<runtime id="1ee39dfdeca5c738c2b26137b098cd2a1f0a1a81" name="glass_color_mat" link="0" type="5"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.15.1.0">
+	<node type="NodeDummy" id="547381453" name="navmesh">
+		<transform>1 1.7484555e-07 0 0.0 -1.7484555e-07 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1060052170" name="navmesh">
+			<mesh_name>guid://c0f5dc3e80b9d685c454d620eb2e92ff17450452</mesh_name>
+			<surface name="surface_0" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+			<transform>100 0 0 0.0 0 100 0 0.0 0 0 100 0.0 0 0 0 1.0</transform>
+		</node>
+	</node>
+</nodes>

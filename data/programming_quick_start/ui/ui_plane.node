@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.15.1.0">
+	<node type="NodeDummy" id="2106051898" name="ui_plane">
+		<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="NodeDummy" id="1115790204" name="ui_game_over">
+			<transform>-0.99999982 -8.7422762e-08 -3.5591376e-14 0.0 8.742267e-08 -0.99999881 -3.2584083e-07 0.0 -7.1054316e-15 -3.2584103e-07 0.9999994 0.0 0 0 0 1.0</transform>
+			<node id="1874983117" type="ObjectMeshDynamic" name="header">
+				<fps_visible_camera>-1</fps_visible_camera>
+				<fps_visible_shadow>30</fps_visible_shadow>
+				<fps_invisible>0</fps_invisible>
+				<object_surface name="plane" begin="0" end="6"/>
+				<vertex type="float" num_vertex="4" offset="0" size="3">-0.5 -0.5 0 0.5 -0.5 0 -0.5 0.5 0 0.5 0.5 0</vertex>
+				<vertex type="float" num_vertex="4" offset="16" size="4">0 1 0 0 1 1 0 0 0 0 0 0 1 0 0 0</vertex>
+				<vertex type="float" num_vertex="4" offset="32" size="4">-0 -0 -0 -1 -0 -0 -0 -1 -0 -0 -0 -1 -0 -0 -0 -1</vertex>
+				<vertex type="float" num_vertex="4" offset="48" size="4">1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</vertex>
+				<indices num_indices="6">0 1 3 3 2 0</indices>
+				<surface name="plane" cast_shadow="0" cast_world_shadow="0" bake_to_env_probe="0" cast_env_probe_shadow="0" intersection="0" physics_friction="1" physics_restitution="1" material="0c661744d08739d359f1f5162485297d32eedcb8"/>
+				<transform>0.77999967 -2.5715175e-07 -2.5490363e-07 0.0 3.9506091e-08 0.11999998 -3.7252903e-09 0.0 3.2603452e-07 0 0.99999934 0.0 0 0 3.5762787e-07 1.0</transform>
+				<node id="2116748220" type="ObjectMeshDynamic" name="background">
+					<fps_visible_camera>-1</fps_visible_camera>
+					<fps_visible_shadow>30</fps_visible_shadow>
+					<fps_invisible>0</fps_invisible>
+					<object_surface name="plane" begin="0" end="6"/>
+					<vertex type="float" num_vertex="4" offset="0" size="3">-0.5 -0.5 0 0.5 -0.5 0 -0.5 0.5 0 0.5 0.5 0</vertex>
+					<vertex type="float" num_vertex="4" offset="16" size="4">0 1 0 0 1 1 0 0 0 0 0 0 1 0 0 0</vertex>
+					<vertex type="float" num_vertex="4" offset="32" size="4">-0 -0 -0 -1 -0 -0 -0 -1 -0 -0 -0 -1 -0 -0 -0 -1</vertex>
+					<vertex type="float" num_vertex="4" offset="48" size="4">1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</vertex>
+					<indices num_indices="6">0 1 3 3 2 0</indices>
+					<surface name="plane" cast_shadow="0" cast_world_shadow="0" bake_to_env_probe="0" cast_env_probe_shadow="0" intersection="0" physics_friction="1" physics_restitution="1" material="6620070fdf56492219463619c6fea8a44692dbb3"/>
+					<transform>1 0 0 0.0 0 2.6666672 0 0.0 0 0 1.0000002 0.0 0 1.8333325 -5.9604645e-08 1.0</transform>
+					<node id="630106825" type="ObjectMeshDynamic" name="restart_button">
+						<fps_visible_camera>-1</fps_visible_camera>
+						<fps_visible_shadow>30</fps_visible_shadow>
+						<fps_invisible>0</fps_invisible>
+						<object_surface name="plane" begin="0" end="6"/>
+						<vertex type="float" num_vertex="4" offset="0" size="3">-0.5 -0.5 0 0.5 -0.5 0 -0.5 0.5 0 0.5 0.5 0</vertex>
+						<vertex type="float" num_vertex="4" offset="16" size="4">0 1 0 0 1 1 0 0 0 0 0 0 1 0 0 0</vertex>
+						<vertex type="float" num_vertex="4" offset="32" size="4">-0 -0 -0 -1 -0 -0 -0 -1 -0 -0 -0 -1 -0 -0 -0 -1</vertex>
+						<vertex type="float" num_vertex="4" offset="48" size="4">1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</vertex>
+						<indices num_indices="6">0 1 3 3 2 0</indices>
+						<surface name="plane" cast_shadow="0" cast_world_shadow="0" bake_to_env_probe="0" cast_env_probe_shadow="0" intersection_mask="0x40" physics_friction="1" physics_restitution="1" material="603e26139a9d74562f2e1fbd1be0ddf8ec8308f7"/>
+						<transform>0.38461548 0 0 0.0 0 0.31249997 0 0.0 0 0 0.99999946 0.0 0.21794868 0.15625024 0.0099999905 1.0</transform>
+						<node type="ObjectText" id="705653503" name="object_text_1">
+							<font_name>core/gui/font.ttf</font_name>
+							<text>Restart</text>
+							<font_size>16</font_size>
+							<font_outline>1</font_outline>
+							<text_color>0.874509811 0.874509811 0.874509811 1</text_color>
+							<text_wrap_width>0</text_wrap_width>
+							<surface name="text" physics_friction="1" physics_restitution="1" material="ee7dd8b4a6beac8385a4e80662d71fad0fdf7d28"/>
+							<transform>-3.333333 -1.756353e-05 0 0.0 5.8545088e-06 -10.000002 0 0.0 0 0 1.0000011 0.0 0.29907417 -0.21447182 0.0099999905 1.0</transform>
+						</node>
+					</node>
+					<node id="1988928241" type="ObjectMeshDynamic" name="exit_button">
+						<fps_visible_camera>-1</fps_visible_camera>
+						<fps_visible_shadow>30</fps_visible_shadow>
+						<fps_invisible>0</fps_invisible>
+						<object_surface name="plane" begin="0" end="6"/>
+						<vertex type="float" num_vertex="4" offset="0" size="3">-0.5 -0.5 0 0.5 -0.5 0 -0.5 0.5 0 0.5 0.5 0</vertex>
+						<vertex type="float" num_vertex="4" offset="16" size="4">0 1 0 0 1 1 0 0 0 0 0 0 1 0 0 0</vertex>
+						<vertex type="float" num_vertex="4" offset="32" size="4">-0 -0 -0 -1 -0 -0 -0 -1 -0 -0 -0 -1 -0 -0 -0 -1</vertex>
+						<vertex type="float" num_vertex="4" offset="48" size="4">1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</vertex>
+						<indices num_indices="6">0 1 3 3 2 0</indices>
+						<surface name="plane" cast_shadow="0" cast_world_shadow="0" bake_to_env_probe="0" cast_env_probe_shadow="0" intersection_mask="0x40" physics_friction="1" physics_restitution="1" material="603e26139a9d74562f2e1fbd1be0ddf8ec8308f7"/>
+						<transform>0.38461548 0 0 0.0 0 0.31249997 0 0.0 0 0 0.99999946 0.0 -0.21794876 0.15625024 0.0099999905 1.0</transform>
+						<node type="ObjectText" id="868602592" name="object_text_2">
+							<font_name>core/gui/font.ttf</font_name>
+							<text>Exit</text>
+							<font_size>16</font_size>
+							<font_outline>1</font_outline>
+							<text_color>0.874509811 0.874509811 0.874509811 1</text_color>
+							<text_wrap_width>0</text_wrap_width>
+							<surface name="text" physics_friction="1" physics_restitution="1" material="ee7dd8b4a6beac8385a4e80662d71fad0fdf7d28"/>
+							<transform>-3.333333 -1.756353e-05 0 0.0 5.8545088e-06 -10.000002 0 0.0 0 0 1.0000011 0.0 0.18796289 -0.21447182 0.0200001 1.0</transform>
+						</node>
+					</node>
+				</node>
+				<node type="ObjectText" id="1196506425" name="header_text">
+					<font_name>core/gui/font.ttf</font_name>
+					<text>Game Over</text>
+					<font_size>19</font_size>
+					<text_color>0.156862751 0.160784319 0.180392161 1</text_color>
+					<text_wrap_width>0</text_wrap_width>
+					<surface name="text" physics_friction="1" physics_restitution="1" material="ee7dd8b4a6beac8385a4e80662d71fad0fdf7d28"/>
+					<transform>-1.2820514 -1.4636274e-05 0 0.0 2.2517347e-06 -8.333334 0 0.0 0 0 1.0000006 0.0 0.23059124 -0.20601559 0.0099999905 1.0</transform>
+				</node>
+			</node>
+		</node>
+	</node>
+</nodes>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>1f68f3a470daaab3c307f076c92b2d5d15c84f18</guid>
+	<type>component</type>
+	<hash>dc3aac71</hash>
+	<runtimes>
+		<runtime id="1f68f3a470daaab3c307f076c92b2d5d15c84f18" name="Health.cs" link="0"/>
+		<runtime id="e07687971a39000a4851efe1fb24c7cc27d460bb" name="Health.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

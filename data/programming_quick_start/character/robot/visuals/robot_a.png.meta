@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>4ba6371caf90e7cb85f89aae32ae22358814ce10</guid>
+	<type>texture</type>
+	<hash>e63598c5</hash>
+	<runtimes>
+		<runtime id="4ba6371caf90e7cb85f89aae32ae22358814ce10" name="robot_a.png" link="0" type="6"/>
+		<runtime id="8f27ca2f1a99f1c2888586397a427a44df2a40d3" name="robot_a.dds" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="image_format">ATI1</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="string" name="width">auto</parameter>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="bool" name="srgb_correction">0</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="preset_name">ambient occlusion</parameter>
+	</parameters>
+</asset>

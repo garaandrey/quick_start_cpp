@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>554669e2f6445fd958494764e35d6b737f383a36</guid>
+	<type>texture</type>
+	<hash>00a524c8</hash>
+	<runtimes>
+		<runtime id="554669e2f6445fd958494764e35d6b737f383a36" name="sparks_d.png" link="0" type="6"/>
+		<runtime id="c8c16c1d0e29fed89332f457dfdf05ca07cabaa1" name="sparks_d.dds" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="image_format">DXT1</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="string" name="width">auto</parameter>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="preset_name">diffuse (rgb)</parameter>
+	</parameters>
+</asset>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>410b72a0e30cb308bf2a99be05fa1bdb8a69d78d</guid>
+	<type>property</type>
+	<hash>f55816e2</hash>
+	<runtimes>
+		<runtime id="410b72a0e30cb308bf2a99be05fa1bdb8a69d78d" name="LevelManager" link="0" type="4"/>
+	</runtimes>
+</asset>

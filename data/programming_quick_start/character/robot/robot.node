@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.15.1.0">
+	<node type="ObjectMeshSkinned" id="1317743901" name="robot">
+		<mesh_name>guid://96ec8f882bea6d478acfc9faccdfd1113bc2573c</mesh_name>
+		<fps_visible_camera>-1</fps_visible_camera>
+		<fps_visible_shadow>30</fps_visible_shadow>
+		<fps_invisible>0</fps_invisible>
+		<surface name="robot_glass_color" enabled="0" intersection="0" physics_friction="1" physics_restitution="1" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+		<surface name="robot_glass_reflections_mat" intersection="0" physics_friction="1" physics_restitution="1" material="2771ecd2c215a609ee90f7d4503e01232073f426"/>
+		<surface name="robot_mat" intersection="0" physics_friction="1" physics_restitution="1" material="ccfd51fc9592852b3721d88eab4d8695f78b26f0"/>
+		<body type="BodyRigid" id="141342182" frozen="0">
+			<linear_damping>5.02440023</linear_damping>
+			<shape type="ShapeCapsule" id="1257240059" transform="1 0 0 0 0 1 0 0 0 0 1 0 -0.000786855817 0.00434014201 0.889684796 1">
+				<radius>0.416178644</radius>
+				<height>0.410289168</height>
+			</shape>
+		</body>
+		<properties>
+			<property parent="aaab7bb781fabc7c41bad39c7d7564593ec8f0a4" guid="b57735f437cfe8c3a3c6774646dee5ed19820e68">
+				<parameter name="bullet_path">guid://d9e83339d2334344e77a75d34a340116d4a7c57d</parameter>
+				<parameter name="leftSpawn">353003474</parameter>
+				<parameter name="rightSpawn">377092924</parameter>
+			</property>
+		</properties>
+		<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="NodeDummy" id="353003474" name="left_bullet_spawn">
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 -0.31854725 0.42869949 0.7197237 1.0</transform>
+		</node>
+		<node type="NodeDummy" id="377092924" name="right_bullet_spawn">
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0.31444931 0.42869949 0.7197237 1.0</transform>
+		</node>
+	</node>
+</nodes>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>4c3cd15ac8b970f15862b59cca0a544bd7de1d2e</guid>
+	<type>sound</type>
+	<hash>c2b14b3e</hash>
+	<runtimes>
+		<runtime id="4c3cd15ac8b970f15862b59cca0a544bd7de1d2e" name="blaster.wav" link="0" type="7"/>
+	</runtimes>
+</asset>

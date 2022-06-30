@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.15.1.0">
+	<node type="NodeDummy" id="1095576031" name="robot">
+		<transform>1 2.646978e-22 -3.8213714e-15 0.0 9.2644229e-23 1 8.7422777e-08 0.0 3.8213714e-15 -8.7422777e-08 1 0.0 0 0 0 1.0</transform>
+		<node type="NodeDummy" id="1655850988" name="Armature">
+			<transform>50 5.7493473e-20 7.1214893e-13 0.0 5.6989991e-20 50 -8.146033e-06 0.0 -7.1214893e-13 8.146033e-06 50 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="ObjectMeshSkinned" id="1312954329" name="robot">
+			<mesh_name>guid://96ec8f882bea6d478acfc9faccdfd1113bc2573c</mesh_name>
+			<fps_visible_camera>-1</fps_visible_camera>
+			<fps_visible_shadow>30</fps_visible_shadow>
+			<fps_invisible>0</fps_invisible>
+			<speed>30</speed>
+			<surface name="robot_glass_color" material="299173a497e92ab305c47076c7bdad5de238cf18"/>
+			<surface name="robot_glass_reflections_mat" material="2771ecd2c215a609ee90f7d4503e01232073f426"/>
+			<surface name="robot_mat" material="ccfd51fc9592852b3721d88eab4d8695f78b26f0"/>
+			<transform>1 6.9377098e-23 3.8213714e-15 0.0 2.4143067e-22 1 -8.7422777e-08 0.0 -3.8213714e-15 8.7422777e-08 1 0.0 0 0 0 1.0</transform>
+		</node>
+	</node>
+</nodes>

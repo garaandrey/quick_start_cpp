@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>5a2c53d9aa48ab64932d7f7348c13e36004ea01d</guid>
+	<type>component</type>
+	<hash>ff1a3c27</hash>
+	<runtimes>
+		<runtime id="5a2c53d9aa48ab64932d7f7348c13e36004ea01d" name="HUD.cs" link="0"/>
+		<runtime id="370da2d85e1a48578d1649ca7cb12ea1b7bb778c" name="HUD.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

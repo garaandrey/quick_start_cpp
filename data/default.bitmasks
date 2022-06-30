@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bit_mask_names>
+	<occlusion>
+		<name index="7">BulletIntersection</name>
+	</occlusion>
+	<intersection>
+		<name index="7">BulletIntersection</name>
+	</intersection>
+</bit_mask_names>

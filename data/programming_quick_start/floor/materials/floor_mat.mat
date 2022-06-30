@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.15.1.0" guid="4cf8bd27b93d185a5d070bf1ef15949c7cf9a74b" parent="2dab9c222dad6d194f2673a4de7a2ab361217076" base_material="4dfec30f491f753f6e89094db6d3d695e89f9d6f">
+	<state name="detail">1</state>
+	<state name="procedural_effects">1</state>
+	<state name="bevel">0</state>
+	<state name="detail_blend">1</state>
+	<state name="base_mapping">3</state>
+	<state name="detail_mapping">4</state>
+	<texture name="albedo">guid://ddfde5e41f3077f3d86adcb65b92ac9d2efd4558</texture>
+	<parameter name="albedo_color" expression="0">1 1 1 1</parameter>
+	<parameter name="uv_transform" expression="0">1 1 0.5 0.5</parameter>
+	<parameter name="detail_roughness" expression="0">0.400000006</parameter>
+	<parameter name="detail_uv_transform" expression="0">0.200000003 0.200000003 0 0</parameter>
+	<parameter name="detail_albedo_color_visible" expression="0">0</parameter>
+	<parameter name="detail_metalness_visible" expression="0">0</parameter>
+	<parameter name="bevel_scale" expression="0">0.5</parameter>
+</material>

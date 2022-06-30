@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>510b2951d164cc7f9909f68f0124ca50b4934248</guid>
+	<type>property</type>
+	<hash>29a5444b</hash>
+	<runtimes>
+		<runtime id="510b2951d164cc7f9909f68f0124ca50b4934248" name="EndWidget" link="0" type="4"/>
+	</runtimes>
+</asset>

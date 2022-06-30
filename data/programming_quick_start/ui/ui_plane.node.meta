@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>f35db47c8e3685ab3c28df0e5bbfdb15bb847170</guid>
+	<type>node</type>
+	<hash>6ac1fb58</hash>
+	<runtimes>
+		<runtime id="f35db47c8e3685ab3c28df0e5bbfdb15bb847170" name="ui_plane.node" link="0" type="3"/>
+	</runtimes>
+</asset>

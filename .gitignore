@@ -1,6 +1,9 @@
 .thumbnails
 bin
 data/microprofile_dump_html
+data/configs/unigine.user
+data/configs/default.user
+data/.editor2/*
 junk
 obj
 source/x64
@@ -10,3 +13,11 @@ unigine_editor.cfg
 *.cache
 *.modified
 *.tlog
+.vs
+*.vcxproj.user
+*.VC.db
+*.opendb
+*.opensdf
+*.pro.user
+*.sdf
+*.suo

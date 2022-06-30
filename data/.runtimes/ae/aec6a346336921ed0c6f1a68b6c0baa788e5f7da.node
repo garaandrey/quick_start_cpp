@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.15.1.0">
+	<node type="NodeDummy" id="2077875795" name="bullet">
+		<transform>1 2.646978e-22 -3.8213714e-15 0.0 9.2644229e-23 1 8.7422777e-08 0.0 3.8213714e-15 -8.7422777e-08 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="189259126" name="bullet">
+			<mesh_name>guid://0527657119e3201c2e7ebccb87ea6bae0e3bbf35</mesh_name>
+			<surface name="bullet_mat" material="55268c62a0e52059dba60de4e8aa7ff37acd44b6"/>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		</node>
+	</node>
+</nodes>

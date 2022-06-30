@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>24f9b8e4ab0c2ef35c7d27b6ad627b9d5a04c858</guid>
+	<type>texture</type>
+	<hash>e1cb7935</hash>
+	<runtimes>
+		<runtime id="24f9b8e4ab0c2ef35c7d27b6ad627b9d5a04c858" name="robot_n.png" link="0" type="6"/>
+		<runtime id="47182fd727b80b4aaf810221c20e350cee766cfb" name="robot_n.dds" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="image_format">ATI2</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="string" name="width">auto</parameter>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="bool" name="srgb_correction">0</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="preset_name">normal map (rg)</parameter>
+	</parameters>
+</asset>

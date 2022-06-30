@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>dc712f6227a16759a67fa8e40c795ef3802897b6</guid>
+	<type>component</type>
+	<hash>a1cc20e4</hash>
+	<runtimes>
+		<runtime id="dc712f6227a16759a67fa8e40c795ef3802897b6" name="EnemyFireController.cs" link="0"/>
+		<runtime id="bbb72b9d0271b858ac405fd7fde27b4a6848b221" name="EnemyFireController.prop" link="1" type="4"/>
+	</runtimes>
+</asset>
